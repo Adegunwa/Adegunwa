@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adegunwa
-- 👀 I’m interested in C++
-- 🌱 I’m currently learning design
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in Analytics 
+- 🌱 I’m currently learning Google Ads
+- 💞️ I’m looking to collaborate on research and analysis
 - 📫 How to reach me adegunwa.me@gmail.com
 
 <!---
